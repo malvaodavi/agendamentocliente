@@ -62,3 +62,21 @@ article {
     padding: 4px;
 
 }
+
+.form-cadastro button { 
+    background-color: #ce0000;
+;
+    color:#ffffff;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+    width: 100%;
+    transition: background-color 0.3s ease;
+}
+
+.form-cadastro button:hover {
+    background-color: #7e0000;
+
+}
